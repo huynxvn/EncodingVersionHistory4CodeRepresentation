@@ -28,3 +28,17 @@ bash experiment_clone.sh
 bash experiment_class.sh
 ```
 The experiment result will be stored in the file "result.txt"
+
+## 📜 Citation
+If you use our tool, please cite our paper as follows:
+
+```
+@inproceedings{nguyen2024encodingversionhistory,
+  title={Encoding Version History Context for Better Code Representation},
+  author={Nguyen, Huy and Treude, Christoph and Thongtanunam, Patanamon},
+  booktitle={The 21st International Conference on Mining Software Repositories (MSR 2024)},
+  venue={April 15-16, 2024, in Lisbon, Portugal.}
+  pages={520--532},
+  year={2022}
+}
+```
