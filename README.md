@@ -36,8 +36,8 @@ If you use our tool, please cite our paper as follows:
 @inproceedings{nguyen2024encodingversionhistory,
   title={Encoding Version History Context for Better Code Representation},
   author={Nguyen, Huy and Treude, Christoph and Thongtanunam, Patanamon},
-  booktitle={The 21st International Conference on Mining Software Repositories (MSR 2024)},
-  venue={April 15-16, 2024, in Lisbon, Portugal.}
+  booktitle={Proceedings of the 21st International Conference on Mining Software Repositories, 2024)},
+  venue={Lisbon, Portugal}
   pages={x--y},
   year={2024}
 }
