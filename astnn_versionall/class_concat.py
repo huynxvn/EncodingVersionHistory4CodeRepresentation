@@ -253,7 +253,7 @@ if __name__ == '__main__':
     ENCODE_DIM = 128
     LABELS = 11
     EPOCHS = 20
-    BATCH_SIZE = 4
+    BATCH_SIZE = 2
     USE_GPU = True
 
     model = BatchProgramClassifier(EMBEDDING_DIM, HIDDEN_DIM, MAX_TOKENS+1, ENCODE_DIM, LABELS, BATCH_SIZE,

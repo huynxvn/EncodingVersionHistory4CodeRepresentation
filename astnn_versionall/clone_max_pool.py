@@ -291,7 +291,7 @@ if __name__ == '__main__':
     ENCODE_DIM = 128
     LABELS = 1
     EPOCHS = 20
-    BATCH_SIZE = 4
+    BATCH_SIZE = 2
     USE_GPU = True
 
     torch.manual_seed(RANDOM_SEED)
